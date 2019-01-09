@@ -14,7 +14,7 @@ class Classifier {
 };
 
 class LinearRegression : public Classifier {
-private:
+   private:
     int dim_;
     int interations_;
     double train_rate_;

@@ -260,3 +260,5 @@ paket-files/
 __pycache__/
 *.pyc
 /Classifier.sln
+/Classifier/Classifier.vcxproj.filters
+/Classifier/Classifier.vcxproj
